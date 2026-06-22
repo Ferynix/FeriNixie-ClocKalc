@@ -7269,12 +7269,6 @@
 		(uuid "0d209fb4-697a-49d8-a079-74961041b95e")
 	)
 	(junction
-		(at 429.26 118.11)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0d8ab195-2cb9-44b0-8c20-378416ff855a")
-	)
-	(junction
 		(at 273.05 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7599,6 +7593,12 @@
 		(uuid "2ff203c6-dfe3-4d9d-bc37-97ff652f2e0b")
 	)
 	(junction
+		(at 436.88 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "309cf180-9e80-446a-9099-2089fcd45764")
+	)
+	(junction
 		(at 95.25 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7791,16 +7791,16 @@
 		(uuid "419c459f-c7ed-419e-90cc-4a0b623ce506")
 	)
 	(junction
-		(at 431.8 97.79)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "43173e6c-f117-4880-9383-d94d0abc6f4c")
-	)
-	(junction
 		(at 97.79 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "43ffae42-274e-4694-9f97-ca5840cb4b5e")
+	)
+	(junction
+		(at 429.26 118.11)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "44192dae-23d3-4343-b284-ed8c10185d22")
 	)
 	(junction
 		(at 280.67 49.53)
@@ -8505,12 +8505,6 @@
 		(uuid "85a65f02-87d3-4726-a32c-7511ec2240bf")
 	)
 	(junction
-		(at 429.26 97.79)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "85aa0d00-a9b8-43d0-9fa6-65f8ff62406c")
-	)
-	(junction
 		(at 148.59 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8697,6 +8691,12 @@
 		(uuid "977a268e-9c69-49a6-9af5-303f1d45d96e")
 	)
 	(junction
+		(at 431.8 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "98909c6e-b97b-4b2b-8034-33c691d65093")
+	)
+	(junction
 		(at 173.99 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8791,12 +8791,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a1f5d4da-715a-4f70-9b85-3a69acdc2c8b")
-	)
-	(junction
-		(at 434.34 113.03)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a210d38a-f594-4f99-9eaa-0071e7df4035")
 	)
 	(junction
 		(at 275.59 107.95)
@@ -9049,12 +9043,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b628c63c-3c93-4dfa-b084-cecc4ec0602d")
-	)
-	(junction
-		(at 434.34 97.79)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b7614e9f-143b-4c0a-9ea4-041d856f916a")
 	)
 	(junction
 		(at 420.37 111.76)
@@ -9357,12 +9345,6 @@
 		(uuid "d3041c8f-f979-4401-abc9-d468d9bbcbc7")
 	)
 	(junction
-		(at 436.88 110.49)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d5488392-7ca4-424a-a900-e299ed7ef888")
-	)
-	(junction
 		(at 328.93 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9373,12 +9355,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d6ebff6a-992c-4003-8995-0ad6c6a58f8f")
-	)
-	(junction
-		(at 431.8 115.57)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d904ed0d-41de-45ae-ad9c-62f1a759d1ed")
 	)
 	(junction
 		(at 176.53 49.53)
@@ -9561,6 +9537,12 @@
 		(uuid "e8f52b43-c38c-4e97-9d06-86c73c810c50")
 	)
 	(junction
+		(at 429.26 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e97466e1-7dd8-4722-a00f-fbe29107bdad")
+	)
+	(junction
 		(at 102.87 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9571,6 +9553,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ec114f9d-aabc-4038-9c69-532dd614772e")
+	)
+	(junction
+		(at 431.8 115.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ecdcdbaf-8ce4-4c8d-91eb-8ff969b159a9")
 	)
 	(junction
 		(at 321.31 107.95)
@@ -9637,6 +9625,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f06a1ae1-eeac-4000-b283-d1790af2bd78")
+	)
+	(junction
+		(at 434.34 113.03)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f07c18b9-b284-42ce-a5fb-6fa96707ce2b")
 	)
 	(junction
 		(at 229.87 66.04)
@@ -9739,6 +9733,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fc801eaa-1b11-42fd-b045-c2cedc0ff6ce")
+	)
+	(junction
+		(at 434.34 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fce8e504-8ae6-4d70-9a91-78a30119b3ab")
 	)
 	(junction
 		(at 359.41 93.98)
@@ -11000,6 +11000,16 @@
 	)
 	(wire
 		(pts
+			(xy 434.34 113.03) (xy 439.42 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "174e6f3a-5b4e-4a0d-9aab-491aa68aa02e")
+	)
+	(wire
+		(pts
 			(xy 344.17 40.64) (xy 344.17 44.45)
 		)
 		(stroke
@@ -12170,16 +12180,6 @@
 	)
 	(wire
 		(pts
-			(xy 431.8 105.41) (xy 431.8 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "287521a0-22a3-42c1-9e00-0f7d987955b6")
-	)
-	(wire
-		(pts
 			(xy 356.87 109.732) (xy 356.87 111.76)
 		)
 		(stroke
@@ -12367,6 +12367,16 @@
 			(type default)
 		)
 		(uuid "2b394850-69bd-4c41-8877-de5e28542956")
+	)
+	(wire
+		(pts
+			(xy 429.26 97.79) (xy 431.8 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b50eb40-e3d3-4242-a08b-8cfb5078387f")
 	)
 	(wire
 		(pts
@@ -13640,7 +13650,7 @@
 	)
 	(wire
 		(pts
-			(xy 431.8 115.57) (xy 420.37 115.57)
+			(xy 420.37 115.57) (xy 431.8 115.57)
 		)
 		(stroke
 			(width 0)
@@ -13987,16 +13997,6 @@
 			(type default)
 		)
 		(uuid "497e4fd9-ba7e-44d4-9f90-990bf84979aa")
-	)
-	(wire
-		(pts
-			(xy 429.26 97.79) (xy 431.8 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "498d195c-0d49-4938-97eb-6cb525bea61e")
 	)
 	(wire
 		(pts
@@ -15100,16 +15100,6 @@
 	)
 	(wire
 		(pts
-			(xy 429.26 118.11) (xy 419.1 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5df1678e-f25d-496e-95ec-f2be483f8fcb")
-	)
-	(wire
-		(pts
 			(xy 123.19 107.95) (xy 143.51 107.95)
 		)
 		(stroke
@@ -15637,16 +15627,6 @@
 			(type default)
 		)
 		(uuid "66953eb6-b55f-4740-9fb2-283d34da2d87")
-	)
-	(wire
-		(pts
-			(xy 434.34 113.03) (xy 421.64 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "66bb0312-5349-4949-be09-4958e43ad07e")
 	)
 	(wire
 		(pts
@@ -17010,7 +16990,7 @@
 	)
 	(wire
 		(pts
-			(xy 436.88 110.49) (xy 439.42 110.49)
+			(xy 422.91 110.49) (xy 436.88 110.49)
 		)
 		(stroke
 			(width 0)
@@ -17167,6 +17147,16 @@
 			(type default)
 		)
 		(uuid "817c2fa3-a635-486d-a6c7-b6e625193bf3")
+	)
+	(wire
+		(pts
+			(xy 429.26 118.11) (xy 439.42 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81936827-3c59-4eeb-be44-b84bbe53d2c0")
 	)
 	(wire
 		(pts
@@ -17420,7 +17410,7 @@
 	)
 	(wire
 		(pts
-			(xy 439.42 113.03) (xy 434.34 113.03)
+			(xy 421.64 113.03) (xy 434.34 113.03)
 		)
 		(stroke
 			(width 0)
@@ -17617,6 +17607,16 @@
 			(type default)
 		)
 		(uuid "8a1968d4-6c1d-4266-b856-c1266a21d4c0")
+	)
+	(wire
+		(pts
+			(xy 429.26 105.41) (xy 429.26 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a1b6214-5f6e-44a8-938c-b42102345efa")
 	)
 	(wire
 		(pts
@@ -17970,6 +17970,16 @@
 	)
 	(wire
 		(pts
+			(xy 434.34 105.41) (xy 434.34 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "905c7842-f31b-4c7e-838c-a118d3823466")
+	)
+	(wire
+		(pts
 			(xy 379.73 83.82) (xy 379.73 82.55)
 		)
 		(stroke
@@ -18267,6 +18277,16 @@
 			(type default)
 		)
 		(uuid "97a02cf0-a028-456d-bc59-340e256cffd7")
+	)
+	(wire
+		(pts
+			(xy 431.8 105.41) (xy 431.8 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "97bed28b-df89-4ea2-9a8f-dad662b1390f")
 	)
 	(wire
 		(pts
@@ -18830,7 +18850,7 @@
 	)
 	(wire
 		(pts
-			(xy 439.42 118.11) (xy 429.26 118.11)
+			(xy 419.1 118.11) (xy 429.26 118.11)
 		)
 		(stroke
 			(width 0)
@@ -18940,16 +18960,6 @@
 	)
 	(wire
 		(pts
-			(xy 422.91 110.49) (xy 436.88 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a15fccf6-f772-4bad-aed8-098f4d838c28")
-	)
-	(wire
-		(pts
 			(xy 113.03 49.53) (xy 115.57 49.53)
 		)
 		(stroke
@@ -19007,6 +19017,16 @@
 			(type default)
 		)
 		(uuid "a1fc4ec2-0170-4f3c-8b31-088728bb6fef")
+	)
+	(wire
+		(pts
+			(xy 436.88 105.41) (xy 436.88 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1fefd7e-56c4-42e9-8359-6a12883f6c8e")
 	)
 	(wire
 		(pts
@@ -20490,6 +20510,16 @@
 	)
 	(wire
 		(pts
+			(xy 431.8 115.57) (xy 439.42 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0bf74fb-184a-40a0-8748-3bc0b7d3decd")
+	)
+	(wire
+		(pts
 			(xy 283.21 82.55) (xy 285.75 80.01)
 		)
 		(stroke
@@ -20557,16 +20587,6 @@
 			(type default)
 		)
 		(uuid "c29e0978-0ebc-4d69-bf54-0e8ba3536d1d")
-	)
-	(wire
-		(pts
-			(xy 434.34 97.79) (xy 436.88 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c3086a48-a07d-4ee8-8f6d-f65fa1f5ed01")
 	)
 	(wire
 		(pts
@@ -20707,6 +20727,16 @@
 			(type default)
 		)
 		(uuid "c4bbc989-62e8-4dd5-bb44-d5c34c6d1255")
+	)
+	(wire
+		(pts
+			(xy 436.88 110.49) (xy 439.42 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c4edc115-0fbe-44c3-8df7-65ebf770028a")
 	)
 	(wire
 		(pts
@@ -21330,16 +21360,6 @@
 	)
 	(wire
 		(pts
-			(xy 431.8 97.79) (xy 434.34 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d191253c-035c-44d0-ab78-d8b4d8c555c0")
-	)
-	(wire
-		(pts
 			(xy 387.35 105.41) (xy 387.35 107.95)
 		)
 		(stroke
@@ -21517,16 +21537,6 @@
 			(type default)
 		)
 		(uuid "d35d6410-b372-4e97-8fa5-5ab8c170b0f2")
-	)
-	(wire
-		(pts
-			(xy 439.42 115.57) (xy 431.8 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d371c2d9-f2b6-4412-961d-07cfc36d8f44")
 	)
 	(wire
 		(pts
@@ -21897,6 +21907,16 @@
 			(type default)
 		)
 		(uuid "db4b6f8b-b5b0-46f3-b197-d86bec3320f5")
+	)
+	(wire
+		(pts
+			(xy 431.8 97.79) (xy 434.34 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db67a51a-4858-48f4-aac4-150be8f316e6")
 	)
 	(wire
 		(pts
@@ -22510,16 +22530,6 @@
 	)
 	(wire
 		(pts
-			(xy 436.88 105.41) (xy 436.88 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e4182053-98cb-4737-8c61-bc7e5f02b038")
-	)
-	(wire
-		(pts
 			(xy 471.17 185.42) (xy 474.98 185.42)
 		)
 		(stroke
@@ -22980,16 +22990,6 @@
 	)
 	(wire
 		(pts
-			(xy 434.34 105.41) (xy 434.34 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eaea0167-59d2-4cbc-8f3c-4d100fd2af90")
-	)
-	(wire
-		(pts
 			(xy 232.41 82.55) (xy 234.95 80.01)
 		)
 		(stroke
@@ -23137,6 +23137,16 @@
 			(type default)
 		)
 		(uuid "ed8e465a-aad3-46af-b9dd-c8eb0f4c789c")
+	)
+	(wire
+		(pts
+			(xy 434.34 97.79) (xy 436.88 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "edbcf699-fd4e-46a3-90bd-2dbf4a9dd3bf")
 	)
 	(wire
 		(pts
@@ -24157,16 +24167,6 @@
 			(type default)
 		)
 		(uuid "fe065aae-b90f-4d07-8235-02be6cf3c05b")
-	)
-	(wire
-		(pts
-			(xy 429.26 105.41) (xy 429.26 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fe548d65-f9b6-440b-a44c-005ca54306b8")
 	)
 	(wire
 		(pts
@@ -25479,7 +25479,7 @@
 	)
 	(symbol
 		(lib_id "NixMinis:Mini_D")
-		(at 436.88 101.6 90)
+		(at 436.88 97.79 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -25490,7 +25490,7 @@
 		(fields_autoplaced yes)
 		(uuid "08be77e0-c872-4006-9815-0a7fcdd2476b")
 		(property "Reference" "D5"
-			(at 436.1096 103.5213 0)
+			(at 436.1096 99.7113 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -25502,7 +25502,7 @@
 			)
 		)
 		(property "Value" "C5355434"
-			(at 437.633 103.4999 0)
+			(at 437.633 99.6899 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -25514,7 +25514,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 436.88 101.6 0)
+			(at 436.88 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25525,7 +25525,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 431.292 100.33 90)
+			(at 431.292 96.52 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -25536,7 +25536,7 @@
 			)
 		)
 		(property "Description" "Diode, small symbol"
-			(at 428.752 101.6 0)
+			(at 428.752 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42174,7 +42174,7 @@
 	)
 	(symbol
 		(lib_id "NixMinis:Mini_D")
-		(at 431.8 101.6 90)
+		(at 431.8 97.79 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -42185,7 +42185,7 @@
 		(fields_autoplaced yes)
 		(uuid "55333429-069b-42d8-a703-dc3d3a0165a3")
 		(property "Reference" "D3"
-			(at 431.0296 103.5213 0)
+			(at 431.0296 99.7113 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -42197,7 +42197,7 @@
 			)
 		)
 		(property "Value" "C5355434"
-			(at 432.553 103.4999 0)
+			(at 432.553 99.6899 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -42209,7 +42209,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 431.8 101.6 0)
+			(at 431.8 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42220,7 +42220,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 426.212 100.33 90)
+			(at 426.212 96.52 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -42231,7 +42231,7 @@
 			)
 		)
 		(property "Description" "Diode, small symbol"
-			(at 423.672 101.6 0)
+			(at 423.672 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -45930,7 +45930,7 @@
 	)
 	(symbol
 		(lib_id "NixMinis:Mini_D")
-		(at 429.26 101.6 90)
+		(at 429.26 97.79 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -45941,7 +45941,7 @@
 		(fields_autoplaced yes)
 		(uuid "66e0be55-1fad-4eaf-9524-2cd1624d25e2")
 		(property "Reference" "D2"
-			(at 428.4896 103.5213 0)
+			(at 428.4896 99.7113 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -45953,7 +45953,7 @@
 			)
 		)
 		(property "Value" "C5355434"
-			(at 430.013 103.4999 0)
+			(at 430.013 99.6899 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -45965,7 +45965,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 429.26 101.6 0)
+			(at 429.26 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -45976,7 +45976,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 423.672 100.33 90)
+			(at 423.672 96.52 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -45987,7 +45987,7 @@
 			)
 		)
 		(property "Description" "Diode, small symbol"
-			(at 421.132 101.6 0)
+			(at 421.132 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -48625,7 +48625,7 @@
 	)
 	(symbol
 		(lib_id "NixMinis:Mini_R")
-		(at 431.8 97.79 90)
+		(at 431.8 101.6 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -48636,7 +48636,7 @@
 		(fields_autoplaced yes)
 		(uuid "75b3e096-ac47-45b5-b841-0a95e094a3de")
 		(property "Reference" "R197"
-			(at 431.0296 99.7113 0)
+			(at 431.0296 103.5213 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -48648,7 +48648,7 @@
 			)
 		)
 		(property "Value" "120"
-			(at 431.796 99.6846 0)
+			(at 431.796 103.4946 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -48658,7 +48658,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 431.8 97.79 0)
+			(at 431.8 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -48669,7 +48669,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 426.212 96.52 90)
+			(at 426.212 100.33 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -48680,7 +48680,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 423.672 97.79 0)
+			(at 423.672 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -52468,7 +52468,7 @@
 	)
 	(symbol
 		(lib_id "NixMinis:Mini_R")
-		(at 434.34 97.79 90)
+		(at 434.34 101.6 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -52479,7 +52479,7 @@
 		(fields_autoplaced yes)
 		(uuid "8674cd83-0223-4c12-9f6b-14cb0f030de6")
 		(property "Reference" "R198"
-			(at 433.5696 99.7113 0)
+			(at 433.5696 103.5213 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -52491,7 +52491,7 @@
 			)
 		)
 		(property "Value" "120"
-			(at 434.336 99.6846 0)
+			(at 434.336 103.4946 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -52501,7 +52501,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 434.34 97.79 0)
+			(at 434.34 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -52512,7 +52512,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 428.752 96.52 90)
+			(at 428.752 100.33 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -52523,7 +52523,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 426.212 97.79 0)
+			(at 426.212 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -56583,7 +56583,7 @@
 	)
 	(symbol
 		(lib_id "NixMinis:Mini_D")
-		(at 434.34 101.6 90)
+		(at 434.34 97.79 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -56594,7 +56594,7 @@
 		(fields_autoplaced yes)
 		(uuid "9b1a0f91-5bed-478e-aa96-d23d00385e53")
 		(property "Reference" "D4"
-			(at 433.5696 103.5213 0)
+			(at 433.5696 99.7113 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -56606,7 +56606,7 @@
 			)
 		)
 		(property "Value" "C5355434"
-			(at 435.093 103.4999 0)
+			(at 435.093 99.6899 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -56618,7 +56618,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 434.34 101.6 0)
+			(at 434.34 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -56629,7 +56629,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 428.752 100.33 90)
+			(at 428.752 96.52 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -56640,7 +56640,7 @@
 			)
 		)
 		(property "Description" "Diode, small symbol"
-			(at 426.212 101.6 0)
+			(at 426.212 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -64902,7 +64902,7 @@
 	)
 	(symbol
 		(lib_id "NixMinis:Mini_R")
-		(at 436.88 97.79 90)
+		(at 436.88 101.6 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -64913,7 +64913,7 @@
 		(fields_autoplaced yes)
 		(uuid "c64a4a48-a3db-4a25-b50a-7db2a05a7865")
 		(property "Reference" "R199"
-			(at 436.1096 99.7113 0)
+			(at 436.1096 103.5213 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -64925,7 +64925,7 @@
 			)
 		)
 		(property "Value" "120"
-			(at 436.876 99.6846 0)
+			(at 436.876 103.4946 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -64935,7 +64935,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 436.88 97.79 0)
+			(at 436.88 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -64946,7 +64946,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 431.292 96.52 90)
+			(at 431.292 100.33 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -64957,7 +64957,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 428.752 97.79 0)
+			(at 428.752 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -65718,7 +65718,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C42407105"
+		(property "Value" "C2802304"
 			(at 506.73 87.6299 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -70621,7 +70621,7 @@
 	)
 	(symbol
 		(lib_id "NixMinis:Mini_R")
-		(at 429.26 97.79 90)
+		(at 429.26 101.6 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -70632,7 +70632,7 @@
 		(fields_autoplaced yes)
 		(uuid "e8c815b7-6185-4775-a37f-29533746d3ee")
 		(property "Reference" "R196"
-			(at 428.4896 99.7113 0)
+			(at 428.4896 103.5213 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -70644,7 +70644,7 @@
 			)
 		)
 		(property "Value" "120"
-			(at 429.256 99.6846 0)
+			(at 429.256 103.4946 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -70654,7 +70654,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 429.26 97.79 0)
+			(at 429.26 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -70665,7 +70665,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 423.672 96.52 90)
+			(at 423.672 100.33 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -70676,7 +70676,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 421.132 97.79 0)
+			(at 421.132 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
