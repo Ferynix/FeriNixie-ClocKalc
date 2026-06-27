@@ -2334,194 +2334,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "JLCPCB_Imported:Q13FC1350000400"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "TXAL"
-				(at 0 1.27 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Q13FC1350000400"
-				(at 0 -2.54 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "footprint:FC-135R_L3.2-W1.5"
-				(at 0 -10.16 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(italic yes)
-					)
-				)
-			)
-			(property "Datasheet" "https://item.szlcsc.com/49622.html"
-				(at -2.286 0.127 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "LCSC" "C32346"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "C32346"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "Q13FC1350000400_0_1"
-				(polyline
-					(pts
-						(xy -2.54 0) (xy -1.016 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.016 1.778) (xy -1.016 -1.778)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -0.508 1.778)
-					(end 0.508 -1.778)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.016 1.778) (xy 1.016 -1.778)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.016 0) (xy 2.54 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin unspecified line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1 1)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1 1)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1 1)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1 1)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "JLCPCB_Imported:RP2040"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -7475,12 +7287,6 @@
 		(uuid "6850d874-5f3e-4d80-90f9-94013c19a796")
 	)
 	(junction
-		(at 289.56 168.91)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "68b846cb-8dc5-4de3-bae3-b7b9f8a556f8")
-	)
-	(junction
 		(at 302.26 120.65)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8409,12 +8215,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d3041c8f-f979-4401-abc9-d468d9bbcbc7")
-	)
-	(junction
-		(at 289.56 165.1)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d41615ff-9f07-422c-a4aa-b451ca0c53bd")
 	)
 	(junction
 		(at 143.51 62.23)
@@ -16984,16 +16784,6 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 168.91) (xy 299.72 168.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "da648200-8dcc-485b-a711-40e1eede11b4")
-	)
-	(wire
-		(pts
 			(xy 240.03 214.63) (xy 242.57 214.63)
 		)
 		(stroke
@@ -18572,6 +18362,16 @@
 		)
 		(uuid "4214f2de-20f2-442c-aefd-757eb5143225")
 	)
+	(label "FLIP_32kHz"
+		(at 209.55 177.8 180)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+			(justify right bottom)
+		)
+		(uuid "46b7141d-459c-428e-a068-137c85f04c48")
+	)
 	(label "FLIP_32kHz_0A"
 		(at 416.56 120.65 90)
 		(effects
@@ -18591,16 +18391,6 @@
 			(justify left bottom)
 		)
 		(uuid "4db89697-b281-435d-b3c7-32f2ae850caa")
-	)
-	(label "FLIP_32kHz"
-		(at 299.72 165.1 0)
-		(effects
-			(font
-				(size 0.635 0.635)
-			)
-			(justify left bottom)
-		)
-		(uuid "537ea54e-9bab-49a2-865b-6e61d1b8522e")
 	)
 	(label "A_GPIO-26"
 		(at 209.55 124.46 180)
@@ -26771,10 +26561,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
+		(in_pos_files no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "2767d227-6d1c-453a-8612-85f9df80a9ae")
 		(property "Reference" "SW1"
@@ -29457,85 +29247,6 @@
 			(project "FeriNixie 12-Tube ClocKalc"
 				(path "/d9e398a8-4d8f-46d1-91fb-e5b5cd3867c9"
 					(reference "#PWR06")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 289.56 168.91 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "31d97648-b1c8-46c5-99e7-6faa675b53cf")
-		(property "Reference" "#PWR047"
-			(at 283.21 168.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 285.75 168.91 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 0.635 0.635)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 289.56 168.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 289.56 168.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 289.56 168.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "867b8953-7f41-41b5-a2d7-313eecbff628")
-		)
-		(instances
-			(project "FeriNixie 12-Tube ClocKalc"
-				(path "/d9e398a8-4d8f-46d1-91fb-e5b5cd3867c9"
-					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -36821,7 +36532,7 @@
 		(in_bom no)
 		(on_board yes)
 		(in_pos_files no)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "54e0164e-e4d9-42d3-83c8-008c5ef64513")
 		(property "Reference" "U32"
@@ -37821,110 +37532,6 @@
 			(project "FeriNixie 12-Tube ClocKalc"
 				(path "/d9e398a8-4d8f-46d1-91fb-e5b5cd3867c9"
 					(reference "R217")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "NixMinis:Mini_C")
-		(at 299.72 168.91 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "59ee7b6c-818d-4a03-b081-03075b1011b8")
-		(property "Reference" "C50"
-			(at 300.4904 166.9887 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 0.635 0.635)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Value" "15pF"
-			(at 299.724 167.0154 0)
-			(show_name no)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 0.381 0.381)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 299.72 168.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 305.308 170.18 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 0.635 0.635)
-				)
-			)
-		)
-		(property "Description" "C725802"
-			(at 307.848 168.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB_PN" "C725802"
-			(at 299.72 168.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC_PN" "C725802"
-			(at 299.72 168.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "b37d596d-26fa-48be-ab00-02deff995945")
-		)
-		(pin "2"
-			(uuid "c5e9e7e0-b5e9-466e-b981-093ce9666d84")
-		)
-		(instances
-			(project "FeriNixie 12-Tube ClocKalc"
-				(path "/d9e398a8-4d8f-46d1-91fb-e5b5cd3867c9"
-					(reference "C50")
 					(unit 1)
 				)
 			)
@@ -38993,7 +38600,7 @@
 		(in_bom no)
 		(on_board yes)
 		(in_pos_files no)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "6011eccf-635a-4c6c-82b0-d93dcdc6098c")
 		(property "Reference" "F1"
@@ -57705,110 +57312,6 @@
 		)
 	)
 	(symbol
-		(lib_id "NixMinis:Mini_C")
-		(at 289.56 168.91 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c1a688ea-9c1b-423c-aace-a9a130aa3e09")
-		(property "Reference" "C49"
-			(at 290.3304 166.9887 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 0.635 0.635)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Value" "15pF"
-			(at 289.564 167.0154 0)
-			(show_name no)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 0.381 0.381)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 289.56 168.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 295.148 170.18 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 0.635 0.635)
-				)
-			)
-		)
-		(property "Description" "C725802"
-			(at 297.688 168.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB_PN" "C725802"
-			(at 289.56 168.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC_PN" "C725802"
-			(at 289.56 168.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "51422832-eeb9-4e28-a600-e5c3c522f50b")
-		)
-		(pin "2"
-			(uuid "f12be9a5-83e6-461f-807a-cf31fe7cb600")
-		)
-		(instances
-			(project "FeriNixie 12-Tube ClocKalc"
-				(path "/d9e398a8-4d8f-46d1-91fb-e5b5cd3867c9"
-					(reference "C49")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "NixMinis:Mini_BJT_NPN")
 		(at 194.31 59.69 0)
 		(unit 1)
@@ -58603,99 +58106,6 @@
 			(project "FeriNixie 12-Tube ClocKalc"
 				(path "/d9e398a8-4d8f-46d1-91fb-e5b5cd3867c9"
 					(reference "U41")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "JLCPCB_Imported:Q13FC1350000400")
-		(at 294.64 165.1 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c441a4d3-a9b3-4610-82cd-27f49e520d86")
-		(property "Reference" "TXAL1"
-			(at 294.64 158.75 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Q13FC1350000400"
-			(at 294.64 161.29 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "JLCPCB_Imported:FC-135R_L3.2-W1.5"
-			(at 294.64 175.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-		(property "Datasheet" "https://item.szlcsc.com/49622.html"
-			(at 292.354 164.973 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Description" ""
-			(at 294.64 165.1 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" "C32346"
-			(at 294.64 165.1 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "519eb246-5e82-4a5c-9c66-53dd271be61b")
-		)
-		(pin "1"
-			(uuid "71ad5017-d48a-47dd-bd4f-be2835ba3fc7")
-		)
-		(instances
-			(project "FeriNixie 12-Tube ClocKalc"
-				(path "/d9e398a8-4d8f-46d1-91fb-e5b5cd3867c9"
-					(reference "TXAL1")
 					(unit 1)
 				)
 			)
@@ -65382,85 +64792,6 @@
 			(project "FeriNixie 12-Tube ClocKalc"
 				(path "/d9e398a8-4d8f-46d1-91fb-e5b5cd3867c9"
 					(reference "R234")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 289.56 165.1 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e771ec4d-46ba-4e34-abe7-a0383240de17")
-		(property "Reference" "#PWR048"
-			(at 293.37 165.1 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 285.75 165.1 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 0.635 0.635)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 289.56 165.1 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 289.56 165.1 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 289.56 165.1 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "0b8ca8bb-c528-4bb2-afb7-79d6484bfa7c")
-		)
-		(instances
-			(project "FeriNixie 12-Tube ClocKalc"
-				(path "/d9e398a8-4d8f-46d1-91fb-e5b5cd3867c9"
-					(reference "#PWR048")
 					(unit 1)
 				)
 			)

@@ -665,7 +665,7 @@
         "uuid": "d9e398a8-4d8f-46d1-91fb-e5b5cd3867c9"
       }
     ],
-    "used_designators": "NE1-2,R252-253,R255-256,R266-279,U34-41,#PWR17,#PWR47-60,C49-52,TXAL1",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
