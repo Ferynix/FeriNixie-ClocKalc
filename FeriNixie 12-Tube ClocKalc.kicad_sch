@@ -18293,12 +18293,12 @@
 		(uuid "3569b1fb-d58a-454b-b61d-44f2e22a456d")
 	)
 	(label "D_GPIO-6"
-		(at 209.55 177.8 180)
+		(at 209.55 177.8 0)
 		(effects
 			(font
 				(size 0.635 0.635)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "36980e4e-fa33-46b1-b819-d6d17c65af59")
 	)
@@ -56959,7 +56959,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Value" "1K"
+		(property "Value" "4.7K"
 			(at 346.706 131.4554 0)
 			(show_name no)
 			(do_not_autoplace yes)
